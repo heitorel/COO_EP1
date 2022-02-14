@@ -1,0 +1,42 @@
+Mycaelli Cerqueira de Lima - 10723562
+Heitor Lopes Bianchi - 10258730
+
+Disponível em --> https://github.com/heitorel/EP1---COO
+
+****** Compilação e excução do programa ******
+
+Obs.: é importante ter o JDK instalado em seu computador 
+e as variáveis de ambiente configuradas devidamente.
+
+
+1- Pressione as teclas Win+R;
+2- na janela aberta 'Executar', digite 'cmd' e pressione Enter;
+3- no prompt de comando aberto navegue até o diretório dos
+arquivos .java e .class do programa
+
+Comandos úteis na navegação
+
+X: - abre a partição ou 'disco' X
+cd\ - retorna à ásta raiz da partição
+dir - lista o conteúdo no diretório atual
+cd 'nome da pasta' - acessa o diretório seguinte
+java -version - exibe a versão do java instalado
+em sua máquina
+
+o caminho final do diretório deverá ser '\EP1\src'
+
+4- aqui devem ser compilados os seguintes .java 
+da seguinte forma:
+
+- javac Ball.java
+- javac Player.java
+- javac Score.java;
+
+5- compilados os scripts, execute o pong da 
+seguitne forma:
+
+- java Pong
+
+Divirta-se!!
+
+**********************************************
